@@ -23,6 +23,7 @@
 
 <p align="center">
 <a href="https://codepen.io/sreemanthg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sreemanthg" height="30" width="30" /></a>
+  &nbsp;
 <a href="https://twitter.com/gsreemanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gsreemanth" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sreemanth gourishetty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sreemanth gourishetty" height="30" width="30" /></a>
 <a href="https://www.codechef.com/sreemanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sreemanth" height="30" width="30" /></a>
