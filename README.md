@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **frontend frameworks**
 
-- 🌱 I’m currently learning **Azure, WebAssembly and Blockchain**
+- 🌱 I’m currently learning **Devops and AWS**
 
 - 👯 I’m looking to collaborate **MERN Stack Projects**
 
