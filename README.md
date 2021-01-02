@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreemanthg" alt="sreemanthg" /> </p>
 
-- 🔭 I’m currently working on **frontend frameworks**
+- 🔭 I’m currently working on **Microservices**
 
 - 🌱 I’m currently learning **Devops and Cloud Computing**
 
