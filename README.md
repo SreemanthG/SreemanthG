@@ -25,7 +25,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @gsreemanth for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-<a href="https://www.buymeacoffee.com/sreemanthg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/sreemanth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px"></a>
 
 <p align="center">
   <img height="200" width="300" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
